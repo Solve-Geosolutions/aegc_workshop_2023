@@ -1,0 +1,4 @@
+[core]
+    remote = aegc_workshop_2023
+['remote "aegc_workshop_2023"']
+    url = s3://applied-science-dvc/aegc_workshop_2023

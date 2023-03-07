@@ -1,4 +1,4 @@
-project_name : test
+project_name : aegc_workshop_2023
 dvc_folders: data outputs
-dvc_remote : s3://applied-science-dvc/test
-git_remote:
+dvc_remote : s3://applied-science-dvc/aegc_workshop_2023
+git_remote: https://github.com/Solve-Geosolutions/aegc_workshop_2023
